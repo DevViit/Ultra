@@ -59,7 +59,6 @@ main>.main1 {
 
 .button {
     margin: 20px auto;
-    width: fit-content;
 }
 
 .button>a {
